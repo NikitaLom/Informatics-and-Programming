@@ -13,6 +13,6 @@ int main() {
 float S;
 S = 0.5* a * h ;
     //output
-printf("Results = %f", S);
+printf("Results = %.2f", S);
 return 0;
 }

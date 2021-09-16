@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculationOfAreas", "CalculationOfAreas\CalculationOfAreas.vcxproj", "{EEA469F1-E3F7-4915-A364-4B70E6A37F31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The area of the rectangle", "The area of the rectangle\The area of the rectangle.vcxproj", "{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The area of the circle", "The area of the circle\The area of the circle.vcxproj", "{0E9A455B-AFA9-41D5-B634-42E337764F16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{EEA469F1-E3F7-4915-A364-4B70E6A37F31}.Release|x64.Build.0 = Release|x64
 		{EEA469F1-E3F7-4915-A364-4B70E6A37F31}.Release|x86.ActiveCfg = Release|Win32
 		{EEA469F1-E3F7-4915-A364-4B70E6A37F31}.Release|x86.Build.0 = Release|Win32
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Debug|x64.ActiveCfg = Debug|x64
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Debug|x64.Build.0 = Debug|x64
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Debug|x86.Build.0 = Debug|Win32
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Release|x64.ActiveCfg = Release|x64
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Release|x64.Build.0 = Release|x64
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Release|x86.ActiveCfg = Release|Win32
+		{D15204F4-EE8F-46F3-BB5E-A21F3947EEF9}.Release|x86.Build.0 = Release|Win32
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Debug|x64.ActiveCfg = Debug|x64
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Debug|x64.Build.0 = Debug|x64
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Debug|x86.Build.0 = Debug|Win32
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Release|x64.ActiveCfg = Release|x64
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Release|x64.Build.0 = Release|x64
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Release|x86.ActiveCfg = Release|Win32
+		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
