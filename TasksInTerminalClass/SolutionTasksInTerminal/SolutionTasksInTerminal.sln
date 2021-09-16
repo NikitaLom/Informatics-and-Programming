@@ -9,6 +9,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The area of the rectangle",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The area of the circle", "The area of the circle\The area of the circle.vcxproj", "{0E9A455B-AFA9-41D5-B634-42E337764F16}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arithmetic mean of numbers", "Arithmetic mean of numbers\Arithmetic mean of numbers.vcxproj", "{8156545D-BB46-4853-B293-8AD2DA2CF87F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "The average of the squares", "The average of the squares\The average of the squares.vcxproj", "{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arithmetic mean of modules", "Arithmetic mean of modules\Arithmetic mean of modules.vcxproj", "{09266638-A655-46FC-8212-98A5C9EE5E40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arithmetic mean of the roots", "Arithmetic mean of the roots\Arithmetic mean of the roots.vcxproj", "{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +49,38 @@ Global
 		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Release|x64.Build.0 = Release|x64
 		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Release|x86.ActiveCfg = Release|Win32
 		{0E9A455B-AFA9-41D5-B634-42E337764F16}.Release|x86.Build.0 = Release|Win32
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Debug|x64.ActiveCfg = Debug|x64
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Debug|x64.Build.0 = Debug|x64
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Debug|x86.Build.0 = Debug|Win32
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Release|x64.ActiveCfg = Release|x64
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Release|x64.Build.0 = Release|x64
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Release|x86.ActiveCfg = Release|Win32
+		{8156545D-BB46-4853-B293-8AD2DA2CF87F}.Release|x86.Build.0 = Release|Win32
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Debug|x64.ActiveCfg = Debug|x64
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Debug|x64.Build.0 = Debug|x64
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Debug|x86.Build.0 = Debug|Win32
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Release|x64.ActiveCfg = Release|x64
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Release|x64.Build.0 = Release|x64
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Release|x86.ActiveCfg = Release|Win32
+		{DDD5C23A-C79D-434A-95DE-34D1583C4B5B}.Release|x86.Build.0 = Release|Win32
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Debug|x64.ActiveCfg = Debug|x64
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Debug|x64.Build.0 = Debug|x64
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Debug|x86.ActiveCfg = Debug|Win32
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Debug|x86.Build.0 = Debug|Win32
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Release|x64.ActiveCfg = Release|x64
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Release|x64.Build.0 = Release|x64
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Release|x86.ActiveCfg = Release|Win32
+		{09266638-A655-46FC-8212-98A5C9EE5E40}.Release|x86.Build.0 = Release|Win32
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Debug|x64.ActiveCfg = Debug|x64
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Debug|x64.Build.0 = Debug|x64
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Debug|x86.Build.0 = Debug|Win32
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Release|x64.ActiveCfg = Release|x64
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Release|x64.Build.0 = Release|x64
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Release|x86.ActiveCfg = Release|Win32
+		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
