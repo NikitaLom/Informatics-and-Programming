@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arithmetic mean of modules"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arithmetic mean of the roots", "Arithmetic mean of the roots\Arithmetic mean of the roots.vcxproj", "{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InversNumbers", "InversNumbers\InversNumbers.vcxproj", "{ACDC9AF0-0595-4132-85A2-CC68137499EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Release|x64.Build.0 = Release|x64
 		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Release|x86.ActiveCfg = Release|Win32
 		{09FA6AD5-2D70-4CAE-93CF-1A9396027A4D}.Release|x86.Build.0 = Release|Win32
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Debug|x64.ActiveCfg = Debug|x64
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Debug|x64.Build.0 = Debug|x64
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Debug|x86.Build.0 = Debug|Win32
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Release|x64.ActiveCfg = Release|x64
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Release|x64.Build.0 = Release|x64
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Release|x86.ActiveCfg = Release|Win32
+		{ACDC9AF0-0595-4132-85A2-CC68137499EA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
